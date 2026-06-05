@@ -33,3 +33,5 @@ O objetivo do projeto é simular o processamento de tarefas em segundo plano. A 
 4. Acessar a API em http://localhost:8000. 
 
 
+
+
