@@ -27,7 +27,9 @@ O objetivo do projeto é simular o processamento de tarefas em segundo plano. A 
 
 ## Como executar o projeto
 
-### 1. Criar ambiente virtual
+1. Clonar o repositório.
+2. Instalar as dependências com `pip install -r requirements.txt`.    
+3. Rodar o servidor com `uvicorn main:app --reload`.    
+4. Acessar a API em http://localhost:8000. 
 
-```bash
-python -m venv .venv
+
