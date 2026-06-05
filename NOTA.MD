@@ -1,0 +1,1 @@
+FastAPI criou o job → Redis recebeu → Celery processou → API consulta o status
